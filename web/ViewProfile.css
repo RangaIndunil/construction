@@ -1,0 +1,131 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2018, 12:39:54 AM
+    Author     : Singer
+*/
+
+body{
+	background-image: url("CSS/Background.jpeg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+	background-size: 100% 100%; 
+	font-family: Novecentosanswide-Bold;
+        -webkit-font-smoothing: antialiased; 
+}
+
+@font-face{
+	font-family: Novecentosanswide-Bold;
+	src:url("Novecentosanswide-Bold.otf");
+}
+
+.Top{
+    float: left;
+    width: 100%;
+    height: 75px;
+}
+
+#Side1{
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+#Div1{
+    width: 40%;
+    height: 400px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#Side2{
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+#Div2{
+    width: 40%;
+    height: 150px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#Side3{
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+#Div3{
+    width: 40%;
+    height: 100px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#Side4{
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+#Div4{
+    width: 40%;
+    height: 150px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#Side5{
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+#Div5{
+    width: 40%;
+    height: 150px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#Side6{
+    width: 30%;
+    height: 70px;
+    float: left;
+}
+#Div6{
+    width: 40%;
+    height: 70px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#topicD{
+    width: 40%;
+    height: 40px;
+    background-color: white;
+    opacity: 0.7;
+    content: ' ';
+    float: left;
+}
+#topicS{
+    width: 30%;
+    height: 40px;
+    float: left;
+}
+
+.table{
+    color: black;
+    font-family: Novecentosanswide-Bold;
+    table-layout: auto;
+    height: 100px;
+    text-align: center;
+    border-radius: 25px;
+}
